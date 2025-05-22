@@ -1,9 +1,9 @@
 no = 6
-factorial = 1
+fact = 1
 
 for i in range(1, 7):
-    factorial *= i
+    fact *= i
     
-print(factorial)    
-print(factorial)    
-print(factorial)  
+print(fact)    
+print(fact)    
+print(fact)  
